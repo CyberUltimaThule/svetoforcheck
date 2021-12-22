@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="red">Красный</string>
+    <string name="green">Зелёный</string>
+    <string name="textView2">Без цвета</string>
+</resources>
